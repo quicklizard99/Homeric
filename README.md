@@ -19,3 +19,5 @@ PlotDoughnut(v, centre.text='Taken a bite', centre.cex=1.8, labels.cex=2,
              to.degrees=270, origin=-45, clockwise=FALSE)
 title(main='You doughnut', outer=TRUE, cex.main=3)
 ```
+
+![Example doughnut plot](../screenshots/doughnut1.png?raw=true)
