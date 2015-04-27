@@ -13,7 +13,6 @@
 \details{
     \packageDESCRIPTION{Homeric}
     \packageIndices{Homeric}
-    PlotDoughnut
 }
 
 \author{
