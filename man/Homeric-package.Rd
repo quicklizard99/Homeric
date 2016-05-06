@@ -2,23 +2,21 @@
 \alias{Homeric-package}
 \alias{Homeric}
 \docType{package}
-\title{
-    \packageTitle{Homeric}
-}
+\title{Homeric}
 
-\description{
-    \packageDescription{Homeric}
-}
+\description{Doughnut plots}
 
 \details{
-    \packageDESCRIPTION{Homeric}
-    \packageIndices{Homeric}
+    \tabular{ll}{
+    Package: \tab Homeric\cr
+    Type: \tab Package\cr
+    Version: \tab 0.1-2\cr
+    Date: \tab 2016-04-17\cr
+    License: \tab GPL-2\cr
+    }
 }
 
-\author{
-    \packageAuthor{Homeric}
-    Maintainer: \packageMaintainer{Homeric}
-}
+\author{Maintainer: Lawrence Hudson <l.hudson@nhm.ac.uk>}
 
 \keyword{package}
 
