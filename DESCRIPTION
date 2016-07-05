@@ -1,9 +1,9 @@
 Package: Homeric
 Type: Package
-Title: Doughnut plots
-Version: 0.1-1
-Date: 2015-04-25
+Title: Doughnut Plots
+Version: 0.1-2
+Date: 2016-07-05
 Author: Lawrence Hudson
-Maintainer: Lawrence Hudson <l.hudson@nhm.ac.uk>
+Maintainer: Lawrence Hudson <quicklizard@googlemail.com>
 Description: Doughnut plots.
 License: GPL-2
