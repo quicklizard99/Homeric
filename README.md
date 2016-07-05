@@ -1,4 +1,7 @@
 # Homeric
+
+![Zenodo DOI badge](https://zenodo.org/badge/doi/10.5281/zenodo.57065.svg)
+
 Doughnut plots for R
 
 ```{r}
