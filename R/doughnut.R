@@ -64,6 +64,3 @@ PlotDoughnut <- function(values, clockwise=TRUE, origin.degrees=0,
                    breaks=breaks,
                    labels=labels.coords))
 }
-
-# North American spelling
-PlotDonut <- PlotDoughnut

@@ -1,6 +1,5 @@
 \name{PlotDoughnut}
 \alias{PlotDoughnut}
-\alias{PlotDonut}
 \title{Plot doughnut}
 \description{Plot values as a doughnut.}
 \usage{
@@ -57,6 +56,7 @@ PlotDoughnut(
 \author{Lawrence Hudson}
 
 \examples{
+# Six presentations of the same data
 v <- c(25, 25, 12.5, 12.5, 25)
 names(v) <- LETTERS[1:length(v)]
 par(mfrow=c(2, 3), mar=c(0, 0, 0, 0), oma=c(0, 0, 5, 0))
