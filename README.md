@@ -2,7 +2,9 @@
 
 ![Zenodo DOI badge](https://zenodo.org/badge/doi/10.5281/zenodo.57065.svg)
 
-Doughnut plots for R
+Doughnut plots for R.
+
+Homeric is on CRAN. To install the latest release: `install.packages('Homeric')`.
 
 ```{r}
 library(Homeric)
