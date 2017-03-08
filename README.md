@@ -1,6 +1,7 @@
 # Homeric
 
 ![Zenodo DOI badge](https://zenodo.org/badge/doi/10.5281/zenodo.57065.svg)
+![Total number of downloads from CRAN](https://cranlogs.r-pkg.org/badges/grand-total/Homeric)
 
 Doughnut plots for R.
 
